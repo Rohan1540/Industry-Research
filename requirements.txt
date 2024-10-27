@@ -1,0 +1,9 @@
+langchain 
+streamlit 
+openai
+requests
+transformers
+python-dotenv
+torch
+wikipedia-api
+pandas
