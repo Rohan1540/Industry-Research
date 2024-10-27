@@ -7,14 +7,6 @@ __pycache__/
 # Environment files
 .env
 
-# Output files
-output_files/
-*.csv
-*.md
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints
-
 # System-specific files
 .DS_Store
 Thumbs.db
